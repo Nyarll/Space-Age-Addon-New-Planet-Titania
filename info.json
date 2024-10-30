@@ -1,0 +1,8 @@
+{
+    "name": "new-planet-dev",
+    "version": "0.0.0",
+    "title": "Space Age Addon: New Planet - Titania",
+    "author": "unlucky0314",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0.11", "space-age >= 2.0.11"]
+}
